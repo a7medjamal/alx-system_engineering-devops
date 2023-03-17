@@ -90,5 +90,5 @@ creating links, and using keyboard shortcuts in Bash.
     * Only digits and letters are used to sort - digits come first.
 
 * **19. File type: Holberton**
-  * [holberton.mgc](./holberton.mgc): A magic file that can be used with the command `file` to
-  detect `Holberton` data files.
+  * [school.mgc](./school.mgc): A magic file that can be used with the command `file` to
+  detect `School` data files.
