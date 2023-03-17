@@ -83,4 +83,4 @@ in the Shell.
   in the terminal.
 
 * **18. RTFM**
-  * [101-man_holberton](./101-man_holberton): A man page.
+  * [101-symbolic_link_permissions](./101-symbolic_link_permissions): A man page.
