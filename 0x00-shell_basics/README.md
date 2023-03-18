@@ -79,7 +79,7 @@ creating links, and using keyboard shortcuts in Bash.
 
 * **17. Tree**
   * [17-tree](./17-tree): Bash script that creates the directories `welcome/`,
-  `welcome/to/` and `welcome/to/holberton` in the current directory.
+  `welcome/to/` and `welcome/to/school` in the current directory.
 
 * **18. Life is a series of commas, not periods**
   * [18-commas](./18-commas): Bash script that lists all files and directories of the current
