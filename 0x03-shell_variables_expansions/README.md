@@ -28,11 +28,11 @@ using expansions, performing arithmetic operations, and utilizing aliases.
 
 * **6. Local variable**
   * [6-create_local_variable](./6-create_local_variable): Bash script that creates
-  a new local variable named `BETTY` with value `Holberton`.
+  a new local variable named `BEST` with value `School`.
 
 * **7. Global variable**
   * [7-create_global_variable](./7-create_global_variable): Bash script that
-  creates a new global variable named `HOLBERTON` with value `Betty`.
+  creates a new global variable named `BEST` with value `School`.
 
 * **8. Every addition to true knowledge is an addition to human power**
   * [8-true_knowledge](./8-true_knowledge): Bash script that prints the result of the
@@ -78,4 +78,4 @@ using expansions, performing arithmetic operations, and utilizing aliases.
   * [103-water_and_stir](./103-water_and_stir): Bash script that adds the two numbers
   stored in the environment variables `WATER` and `STIR` and prints the result.
   * `WATER` is in base `water`, `STIR` is in base `stir`, and the result is
-  in base `behlnort`.
+  in base `bestchol`.
