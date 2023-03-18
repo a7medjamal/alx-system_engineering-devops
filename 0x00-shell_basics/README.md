@@ -34,19 +34,19 @@ creating links, and using keyboard shortcuts in Bash.
     * Long format.
     * User and group ID's displayed numerically.
 
-* **6. Welcome holberton**
-  * [6-firstdirectory](./6-firstdirectory): Bash script that creates a directory named `holberton`
+* **6. First directory**
+  * [6-firstdirectory](./6-firstdirectory): Bash script that creates a directory named `my_first_directory`
   in the `/tmp/` directory.
 
-* **7. Betty in Holberton**
+* **7. Betty in my first directory**
   * [7-movethatfile](./7-movethatfile): Bash script that moves the file `betty` from `/tmp/` to
-  `/tmp/holberton`.
+  `/tmp/my_first_directory`.
 
 * **8. Bye bye Betty**
-  * [8-firstdelete](./8-firstdelete): Bash script that deletes the file `betty` in `/tmp/holberton`.
+  * [8-firstdelete](./8-firstdelete): Bash script that deletes the file `betty` in `/tmp/my_first_directory`.
 
-* **9. Bye bye Holberton**
-  * [9-firstdirdeletion](./9-firstdirdeletion): Bash script that deletes the directory `holberton`
+* **9. Bye bye My first directory**
+  * [9-firstdirdeletion](./9-firstdirdeletion): Bash script that deletes the directory `my_first_directory`
   in the `/tmp` directory.
 
 * **10. Back to the future**
@@ -89,6 +89,6 @@ creating links, and using keyboard shortcuts in Bash.
     * Alpha-ordered, except for the directories `.` and `..` which are listed at the beginning.
     * Only digits and letters are used to sort - digits come first.
 
-* **19. File type: Holberton**
+* **19. File type: School**
   * [school.mgc](./school.mgc): A magic file that can be used with the command `file` to
   detect `School` data files.
